@@ -140,7 +140,7 @@ const JobDashboard = () => {
 
                     <div className='job-list'>
                         <div className="job-list-header">Applications By Region</div>
-                        <Map />
+                        {/* <Map /> */}
                     </div>
 
                 </div>
